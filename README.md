@@ -38,11 +38,11 @@ Você pode testar este projeto de duas maneiras: diretamente no navegador via Sn
 
 1. Clone este repositório para a sua máquina:
    ```bash
-   git clone https://github.com/allanmsilva23/Calculadora-Simples-ReactNative.git
+   git clone https://github.com/allanmsilva23/Aplicativo-Calculadora-Simples.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd Calculadora-Simples-ReactNative
+   cd Aplicativo-Calculadora-Simples
    ```
 3. Instale as dependências:
    ```bash
